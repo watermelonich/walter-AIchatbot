@@ -17,7 +17,6 @@ label_to_numeric = {"positive": 0, "negative": 1, "neutral": 2}
 # python3 tokenizer.py
 
 def encode_sentiments(sentiments):
-    label_to_numeric = {"positive": 0, "negative": 1, "neutral": 2}
     encoded_sentiments = []
 
     for sentiment in sentiments:
