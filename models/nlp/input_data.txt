@@ -1,0 +1,3 @@
+I love this product,positive
+The movie was terrible,negative
+The weather is okay,neutral
